@@ -17,4 +17,4 @@ The transformed model account for the words but also the context related to othe
 After this I have reviewed the odd example like 1 star rated positive review and 5 star rated negative review.  
   
   
-Finally, I have coded The Transformed Pipeline for the quick and easy way to run the sentiment predictions.
+Finally, I have coded The Transformer Pipeline for the quick and easy way to run the sentiment predictions.
